@@ -1,1 +1,1 @@
-# 4-in-row
+# 4 in a row
